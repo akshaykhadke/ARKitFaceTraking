@@ -1,2 +1,2 @@
 # ARKitFaceTraking
-Using ARKitFaceExample code virtual goggle glasses try app
+Using Apple ARKitFaceExample code virtual goggle glasses try app
